@@ -1,0 +1,9 @@
+<template>
+    <h1>{{ name }}</h1>
+    <input type="number" value="{{ weight }}">
+    <ul>
+        <template type="repeat" repeat="{{ items }}">
+            <li>{{ item.name }}</li>
+        </template>
+    </ul>
+</template>

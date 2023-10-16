@@ -1,0 +1,15 @@
+{
+    "name": "test data",
+    "weight": 24,
+    "items": [
+        {
+            "name": "child 1"
+        },
+        {
+            "name": "child 2"
+        },
+        {
+            "name": "child 3"
+        }
+    ]
+}
